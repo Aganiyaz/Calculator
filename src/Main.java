@@ -10,6 +10,7 @@ public class Main {
       }
     }
 
+
     private static void calc(String str) {
         String[] token = new String[3];
         String operator = getSeparator(str);
